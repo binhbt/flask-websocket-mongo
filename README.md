@@ -1,4 +1,4 @@
-# flask-websocket-mongo
+# flask-websocket-push-notification-mongo
 Run docker: docker-compose up --build  
 Run wscat connect to server as socket client  
 wscat -c ws://0.0.0.0:82/echo/111  
